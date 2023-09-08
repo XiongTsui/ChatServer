@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/muduo_server.out.dir/muduo_server.cpp.o  -o ../bin/muduo_server.out  -lmuduo_net -lmuduo_base -lpthread 

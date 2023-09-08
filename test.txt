@@ -1,0 +1,11 @@
+登入信息
+{"msgid":1, "id":13, "password":"123456"} 
+{"msgid":1, "id":22, "password":"123456"}
+
+加好友信息
+{"msgid":6, "id":13 , "friendid":22}
+{"msgid":6, "id":22 , "friendid":13}
+
+发送信息
+{"msgid":5, "id":13, "from":"zhang san" ,"to":22,"msg":"hello123!"}
+{"msgid":5, "id":22, "from":"cui xiong" ,"to":22,"msg":"m***** f***!"}
